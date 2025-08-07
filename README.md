@@ -28,7 +28,7 @@
 </br>
 `test_hunter_io_e2e.py` contains tests these clients
 
-## Setup Environement
+## Setup Environment
 
 PS. ensure python linked to the python version 3.11
 
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## RUN Tests
 
-PS. do first Setup Environement
+PS. do first Setup Environment
 
 ```
 cd <PATH-TO>/hantir
