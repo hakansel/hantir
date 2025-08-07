@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## RUN Tests
 
-PS. ensure python linked to the python version 3.11
+PS. do first Setup Environement
 
 ```
 cd <PATH-TO>/hantir
