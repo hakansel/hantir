@@ -28,12 +28,22 @@
 </br>
 `test_hunter_io_e2e.py` contains tests these clients
 
+## Setup Environement
+
+PS. ensure python linked to the python version 3.11
+
+```
+cd <PATH-TO>/hantir
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
 ## RUN Tests
 
 PS. ensure python linked to the python version 3.11
 
 ```
 cd <PATH-TO>/hantir
-pip install -r requirements.txt
 PYTHONPATH=./ python tests/e2e/test_hunter_io_e2e.py
 ```
